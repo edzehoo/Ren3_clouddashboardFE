@@ -2,7 +2,7 @@
 
 ## Setting Up the project
 
-Clone this git repo from (git@github.com:edzehoo/Ren3_clouddashboardFE.git)
+Clone this git repo from (https://github.com/edzehoo/Ren3_clouddashboardFE.git)
 
 
 ## To run the app locally (for development purpose)
